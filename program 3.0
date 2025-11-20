@@ -65,5 +65,3 @@ result=evalpostfix(&s,postfix);
 printf("the final result is %f/n",result);
 return 0;
 }
-return 0;
-}
