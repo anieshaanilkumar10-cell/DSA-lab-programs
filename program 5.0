@@ -89,7 +89,6 @@ void dequeue(QUEUE *q)
                }
 
         }
-        return 0;
-        }
+    
         return 0;
     }
