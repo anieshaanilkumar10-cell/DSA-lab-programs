@@ -114,6 +114,4 @@ int main()
     scanf("%s",infix);
     infixtopostfix(&s,infix);
     return 0;
-    }
-    return 0;
 }
